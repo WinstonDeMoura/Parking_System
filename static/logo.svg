@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Versão simplificada para ícone (24x24) -->
+  <g id="icon">
+    <rect x="20" y="40" width="60" height="40" rx="5" fill="#4CAF50"/>
+    <rect x="30" y="50" width="10" height="20" fill="#FFFFFF"/>
+    <rect x="60" y="50" width="10" height="20" fill="#FFFFFF"/>
+    <path d="M30,30 L70,30 L75,40 L25,40 Z" fill="#3F51B5"/>
+  </g>
+  
+  <!-- Elementos adicionais para versão completa -->
+  <g id="full-logo">
+    <text x="50" y="20" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#333333">PARKING</text>
+    <text x="50" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" fill="#666666">SERVICE SYSTEM</text>
+  </g>
+</svg>
